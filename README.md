@@ -4,7 +4,7 @@
   https://alumni-info.vercel.app
 
 # Screenshot
-![Homepage Screenshot](screenshot.png)
+![Homepage Screenshot](Screenshot 2024-11-24 at 17.19.18.png)
 
   
 ## Overview
