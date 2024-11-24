@@ -3,6 +3,9 @@
 # DEMO
   https://alumni-info.vercel.app
 
+# Screenshot
+![Homepage Screenshot](screenshot.png)
+
   
 ## Overview
 
